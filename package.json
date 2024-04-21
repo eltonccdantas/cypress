@@ -1,0 +1,18 @@
+{
+  "name": "elton-dantas---teste-qa-embarca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elton Dantas",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  },
+  "dependencies": {
+    "cypress-action": "^1.4.9"
+  }
+}
